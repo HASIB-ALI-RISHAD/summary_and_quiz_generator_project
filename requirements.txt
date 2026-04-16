@@ -59,3 +59,4 @@ tzdata==2026.1
 urllib3==2.6.3
 watchdog==6.0.0
 wcwidth==0.2.13
+google-genai
